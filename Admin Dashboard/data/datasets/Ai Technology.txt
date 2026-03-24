@@ -1,0 +1,20 @@
+Artificial Intelligence is a Technology.
+Machine Learning is a branch of Artificial Intelligence.
+Deep Learning is a branch of Machine Learning.
+Neural Network is a component of Deep Learning.
+Natural Language Processing is a branch of Artificial Intelligence.
+Computer Vision is a branch of Artificial Intelligence.
+AI System analyzes Data.
+Machine Learning uses Training Data.
+Deep Learning uses Neural Network.
+Autonomous Vehicle uses Artificial Intelligence.
+Self Driving Car is a type of Autonomous Vehicle.
+AI Model predicts Patterns.
+Data Scientist develops AI Model.
+AI System uses Cloud Computing.
+Cloud Computing stores Data.
+Big Data supports Machine Learning.
+Robotics uses Artificial Intelligence.
+Robot is a Machine.
+AI System controls Robot.
+Intelligent Robot assists Humans.

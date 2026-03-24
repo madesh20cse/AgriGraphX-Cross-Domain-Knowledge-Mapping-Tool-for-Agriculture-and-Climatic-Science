@@ -1,0 +1,10 @@
+Data Science uses Statistics.
+Data Scientist uses Python.
+Data Analysis uses Pandas.
+Data Visualization uses Matplotlib.
+Feature Engineering supports Machine Learning.
+Data Cleaning is part of Data Preparation.
+Big Data uses Distributed Computing.
+A B Testing uses Hypothesis Testing.
+Business Intelligence uses Data Visualization.
+Predictive Analytics uses Machine Learning.

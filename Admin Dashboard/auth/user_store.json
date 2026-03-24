@@ -1,0 +1,46 @@
+{
+  "users": {
+    "demo": {
+      "password": "$2b$10$demo_hashed_password_placeholder",
+      "created_at": "2024-03-18T00:00:00",
+      "last_login": null
+    },
+    "madesh": {
+      "password": "$2b$10$Eg/l./FA78Z62DdaFnAlMedwSqvx5/TdrN748r0g1QsdygI5aWj9O",
+      "created_at": "2026-03-18T10:43:19.663275",
+      "last_login": "2026-03-18T18:46:19.596736"
+    },
+    "madesh p": {
+      "password": "$2b$10$HPqulypTA51hePp/XNyncuyqqb191Xtjr9YhB3mgHnFiPTmeB./Le",
+      "created_at": "2026-03-18T10:43:29.154447",
+      "last_login": null
+    },
+    "madesh20": {
+      "password": "$2b$10$cIvWZ8GUrhi7LBbiyutlAepEGyEC/ELyG6tUwR00xsfGCkrpXc0w6",
+      "created_at": "2026-03-18T10:43:37.798272",
+      "last_login": null
+    },
+    "testuser123": {
+      "password": "$2b$10$H9E5qg0GF2rwSD1cRver2.7pEiZAahlPIO6kRRH4HRhIAYja8VFL6",
+      "created_at": "2026-03-18T10:48:38.999027",
+      "last_login": "2026-03-18T10:48:39.066832"
+    },
+    "madesh20.cse@gmail.com": {
+      "password": "$2b$10$DluzaeSVzyQmA4R8tE3CCOyP8xK88m3btrYWjYeYPjIhRap..xT3K",
+      "created_at": "2026-03-18T10:50:52.559360",
+      "last_login": null
+    },
+    "madesh20cse": {
+      "password": "$2b$10$55CmG5gsiGk3dtgINf16.O2ZEC5fbYq8HC5kiAYZjyMeZNHME3HW6",
+      "created_at": "2026-03-18T10:51:05.099973",
+      "last_login": "2026-03-24T12:47:10.377944"
+    },
+    "madesh-20": {
+      "password": "$2b$10$EDsJzPNtXXGWTtwW9BOfaeVETMd5au9GwLoSx3gKJ3k73wmieRCJW",
+      "created_at": "2026-03-18T14:20:31.151615",
+      "last_login": "2026-03-18T14:21:06.267076"
+    }
+  },
+  "created_at": "2024-03-18T00:00:00",
+  "modified_at": "2026-03-24T12:47:10.378479"
+}

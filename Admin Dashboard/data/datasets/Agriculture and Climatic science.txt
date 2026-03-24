@@ -1,0 +1,10 @@
+Precision Agriculture uses IoT Sensors.
+Crop Yield Prediction uses Machine Learning.
+Soil Health is related to Crop Productivity.
+Irrigation Management uses Weather Forecasting.
+Climate Change affects Rainfall Patterns.
+Greenhouse Gas is related to Global Warming.
+Agroforestry supports Carbon Sequestration.
+Drought Monitoring uses Satellite Imagery.
+Sustainable Farming reduces Soil Degradation.
+Climate Model predicts Temperature Trends.
